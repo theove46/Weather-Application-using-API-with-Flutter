@@ -1,3 +1,6 @@
 # Weather-Application-using-API-with-Flutter
-It is a cross-platform application built with the Flutter framework.
-It was built in December 2022. It shows current weather update and future forecast according to the geo location using free API.
+It was built in December 2022.
+
+● Developed UI with Flutter Framework, Dart Language and implemented responsiveness.
+● This mobile application shows the current weather updates using API.
+● It also shows forecast updates according to the Geolocation.
